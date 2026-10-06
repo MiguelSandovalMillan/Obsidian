@@ -1,4 +1,10 @@
 [
   "obsidian-git",
-  "calendar"
+  "calendar",
+  "obsidian-icon-folder",
+  "obsidian-file-color",
+  "colored-tags",
+  "code-styler",
+  "file-explorer-plus",
+  "mlir-syntax-highlight"
 ]
