@@ -110,7 +110,7 @@
       {
         "id": "1f955c8318967742",
         "type": "tabs",
-        "dimension": 58.35509138381201,
+        "dimension": 58.35509138381202,
         "children": [
           {
             "id": "8c6a9235cb475475",
@@ -192,7 +192,7 @@
       {
         "id": "895479f046e94eb6",
         "type": "tabs",
-        "dimension": 41.64490861618799,
+        "dimension": 41.64490861618798,
         "children": [
           {
             "id": "50028bf51bb08fd4",
@@ -222,7 +222,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "902980bce1f05b57",
+  "active": "3bee5808fd62b20b",
   "lastOpenFiles": [
     "Bienvenido.md",
     "2026-10-06.md"
