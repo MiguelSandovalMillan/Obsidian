@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidiana/Bienvenido.md",
+                "file": "Obsidiana/PRUEBA PADRE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bienvenido"
+              "title": "PRUEBA PADRE"
             }
           }
         ]
@@ -188,9 +188,10 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "716a7fb48ad4cc1b",
+  "active": "d78a0ac5930bd7ec",
   "lastOpenFiles": [
     "Obsidiana/SEGUNDA PRUEBA.md",
-    "Obsidiana/PRUEBA PADRE.md"
+    "Obsidiana/PRUEBA PADRE.md",
+    "Obsidiana/Bienvenido.md"
   ]
 }
