@@ -1,0 +1,47 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "IZXn_A8r8sYH7bdXy8mC4",
+      "name": "Rojo",
+      "value": "#ff0000"
+    },
+    {
+      "id": "Wtr5JFQxHLZ_3eD1F6zcz",
+      "name": "Blanco",
+      "value": "#ffffff"
+    },
+    {
+      "id": "Ij2vKgvRgUZh-DBjnNpBl",
+      "name": "Azul",
+      "value": "#1100ff"
+    },
+    {
+      "id": "1QlhKxilNIA9T9uTAlZdC",
+      "name": "Morado",
+      "value": "#d400ff"
+    },
+    {
+      "id": "coOcCi-aXxe-Fe4SRAzcq",
+      "name": "Amarillo",
+      "value": "#eeff00"
+    },
+    {
+      "id": "FqL6M9pzeArfrk-i6cNRO",
+      "name": "Esmeralda",
+      "value": "#00ff6e"
+    },
+    {
+      "id": "3kf24u74RLnZwLshHNEB-",
+      "name": "Naranja",
+      "value": "#ff7300"
+    },
+    {
+      "id": "GlYHrs6wOrqbuwcrtvJUO",
+      "name": "Verde",
+      "value": "#00ff2a"
+    }
+  ],
+  "fileColors": []
+}
