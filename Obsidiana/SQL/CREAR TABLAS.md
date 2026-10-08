@@ -1,6 +1,6 @@
 
 ```
-CREATE TABLE *nombre de tablas*(
+CREATE TABLE *nombre de tabla*(
 	
 	Tipo de Datos y Caracteristicas
 
@@ -15,9 +15,18 @@ CREATE TABLE *nombre de tablas*(
 - **VARHAR(n)** --> Limite de Caracteres
 - **DECIMAL(n,m)**     n --> Dígitos en total    m--> Decimales en total
 - **DATE** --> Fechas
-
+- **CHECK** --> Booleano ( Verdadero o Falso  /  Si o No)
 ### Características
 
-- PRIMARY KEY
-- FOREING KEY 
-- 
+- PRIMARY KEY --> Llave Primaria (Atributo única e irrepetible)
+- FOREING KEY --> Llave Foránea (Atributo tomado de otra tabla)
+
+- AUTOINCREMENT --> Generar de forma sucesiva números para ID
+- NOT NULL --> No puede ser nulo el registro
+
+### Ejemplo
+
+```{SQL}
+
+
+```
