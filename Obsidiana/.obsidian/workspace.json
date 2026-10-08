@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3bee5808fd62b20b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bienvenido.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bienvenido"
-            }
-          },
-          {
-            "id": "c0f0e297335d8a92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PRUEBA PADRE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PRUEBA PADRE"
-            }
-          },
-          {
             "id": "090ea4c4a668da47",
             "type": "leaf",
             "state": {
@@ -48,9 +20,23 @@
               "icon": "lucide-file",
               "title": "CREAR TABLAS"
             }
+          },
+          {
+            "id": "ddc98bba6307dfa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/CONDICIONALES.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CONDICIONALES"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,10 +106,14 @@
             "id": "902980bce1f05b57",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "SQL/CONDICIONALES.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CONDICIONALES"
             }
           }
         ]
@@ -251,11 +241,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f9b0c98780d507c",
+  "active": "902980bce1f05b57",
   "lastOpenFiles": [
+    "SQL/CONDICIONALES.md",
+    "SQL/CREAR TABLAS.md",
     "SQL",
     "Bienvenido.md",
-    "SQL/CREAR TABLAS.md",
     "PRUEBA PADRE.md",
     "2026-10-06.md"
   ]
