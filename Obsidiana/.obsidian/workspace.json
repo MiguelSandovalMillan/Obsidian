@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SEGUNDA PRUEBA.md",
+                "file": "SQL/CREAR TABLAS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SEGUNDA PRUEBA"
+              "title": "CREAR TABLAS"
             }
           }
         ],
@@ -237,7 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 250.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,11 +251,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "090ea4c4a668da47",
+  "active": "1f9b0c98780d507c",
   "lastOpenFiles": [
-    "PRUEBA PADRE.md",
-    "SEGUNDA PRUEBA.md",
+    "SQL",
     "Bienvenido.md",
+    "SQL/CREAR TABLAS.md",
+    "PRUEBA PADRE.md",
     "2026-10-06.md"
   ]
 }
