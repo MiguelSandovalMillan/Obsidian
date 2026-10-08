@@ -44,3 +44,7 @@ Se utiliza para saber si un campo contiene un dato especifico
 		%a% Cualquier texto que contenga "a"
 		_a% Texto en el que el segundo carácter sea "a"
 		%a__ Texto que tenga la "a" en tercer lugar desde el final
+
+### No condicional
+__ *AS* __
+Se utiliza para renombrar una columna o tabla completa

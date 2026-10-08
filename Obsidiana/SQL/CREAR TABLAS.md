@@ -1,4 +1,4 @@
-[[CONDICIONALES]]
+[[CONDICIONALES]] - [[CONSULTAS]]
 
 ```SQL
 CREATE TABLE *nombre de tabla*(
