@@ -12,3 +12,6 @@ Se utiliza para *no repetir* datos en la consulta y solo recibir los únicos
 
 **ORDER BY**
 Se utiliza para **ordenar** los datos de dos formas posibles
+
+	"DESC" 
+	"ASC"  
