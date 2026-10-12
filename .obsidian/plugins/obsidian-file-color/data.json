@@ -43,5 +43,18 @@
       "value": "#00ff2a"
     }
   ],
-  "fileColors": []
+  "fileColors": [
+    {
+      "path": "Obsidiana/SQL/CONSULTAS.md",
+      "color": "IZXn_A8r8sYH7bdXy8mC4"
+    },
+    {
+      "path": "Obsidiana/SQL/CREAR TABLAS.md",
+      "color": "Ij2vKgvRgUZh-DBjnNpBl"
+    },
+    {
+      "path": "Obsidiana/SQL/CONDICIONALES.md",
+      "color": "3kf24u74RLnZwLshHNEB-"
+    }
+  ]
 }

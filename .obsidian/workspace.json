@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidiana/SQL/CREAR TABLAS.md",
+                "file": "Obsidiana/SQL/CONDICIONALES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CREAR TABLAS"
+              "title": "CONDICIONALES"
             }
           }
         ]
@@ -51,6 +51,19 @@
             }
           },
           {
+            "id": "24233d54d5bb6f49",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
             "id": "a44c2a0ead0b8508",
             "type": "leaf",
             "state": {
@@ -65,19 +78,6 @@
               },
               "icon": "lucide-search",
               "title": "Buscar"
-            }
-          },
-          {
-            "id": "24233d54d5bb6f49",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-bookmark",
-              "title": "Marcadores"
             }
           }
         ]
@@ -237,11 +237,11 @@
   },
   "active": "716a7fb48ad4cc1b",
   "lastOpenFiles": [
+    "Obsidiana/SQL/CREAR TABLAS.md",
+    "Obsidiana/SQL/CONDICIONALES.md",
+    "Obsidiana/SQL/CONSULTAS.md",
     "Sin nombre",
     "2026-10-11.md",
-    "Obsidiana/SQL/CREAR TABLAS.md",
-    "Obsidiana/SQL/CONSULTAS.md",
-    "Obsidiana/SQL/CONDICIONALES.md",
     "Obsidiana/SEGUNDA PRUEBA.md",
     "Obsidiana/PRUEBA PADRE.md",
     "Obsidiana/Bienvenido.md"
