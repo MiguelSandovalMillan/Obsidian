@@ -11,10 +11,14 @@
             "id": "ce12d45f5e7b9a7e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Obsidiana/SQL/CREAR TABLAS.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "CREAR TABLAS"
             }
           }
         ]
@@ -29,6 +33,7 @@
       {
         "id": "9001a1057def5d76",
         "type": "tabs",
+        "dimension": 67.85714285714286,
         "children": [
           {
             "id": "716a7fb48ad4cc1b",
@@ -80,6 +85,7 @@
       {
         "id": "3d33d4cb9141f817",
         "type": "tabs",
+        "dimension": 32.142857142857146,
         "children": [
           {
             "id": "9f0a70bc44c822e5",
@@ -104,6 +110,7 @@
       {
         "id": "2dd2cf83888ac0a0",
         "type": "tabs",
+        "dimension": 61.4100185528757,
         "children": [
           {
             "id": "aaff056071e59a43",
@@ -183,6 +190,24 @@
             }
           },
           {
+            "id": "872b871b6b1f6a53",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "c357808593175a25",
+        "type": "tabs",
+        "dimension": 38.5899814471243,
+        "children": [
+          {
             "id": "d1a596a74281b134",
             "type": "leaf",
             "state": {
@@ -196,8 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,8 +235,9 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "9f0a70bc44c822e5",
+  "active": "8516a991e604fd0a",
   "lastOpenFiles": [
+    "2026-10-11.md",
     "Obsidiana/SQL/CREAR TABLAS.md",
     "Obsidiana/SQL/CONSULTAS.md",
     "Obsidiana/SQL/CONDICIONALES.md",
