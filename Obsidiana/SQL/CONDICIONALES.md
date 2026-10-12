@@ -1,3 +1,7 @@
+---
+
+---
+---
 
 ### WHERE
 Nos ayuda para poner condiciones para nuestra consulta y se puede utilizar con diferentes funciones adicionales
@@ -44,6 +48,8 @@ Se utiliza para saber si un campo contiene un dato especifico
 		%a% Cualquier texto que contenga "a"
 		_a% Texto en el que el segundo carácter sea "a"
 		%a__ Texto que tenga la "a" en tercer lugar desde el final
+
+
 
 ### No condicional
 __ *AS* __

@@ -1,3 +1,4 @@
+----
 
 **SELECT**
 Se utiliza para *Seleccionar* datos de una _tabla_

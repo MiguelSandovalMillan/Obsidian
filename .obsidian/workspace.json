@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidiana/SQL/CONDICIONALES.md",
+                "file": "Obsidiana/SQL/CREAR TABLAS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CONDICIONALES"
+              "title": "CREAR TABLAS"
             }
           }
         ]
@@ -225,6 +225,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
@@ -235,11 +236,11 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "716a7fb48ad4cc1b",
+  "active": "ce12d45f5e7b9a7e",
   "lastOpenFiles": [
-    "Obsidiana/SQL/CREAR TABLAS.md",
     "Obsidiana/SQL/CONDICIONALES.md",
     "Obsidiana/SQL/CONSULTAS.md",
+    "Obsidiana/SQL/CREAR TABLAS.md",
     "Sin nombre",
     "2026-10-11.md",
     "Obsidiana/SEGUNDA PRUEBA.md",
