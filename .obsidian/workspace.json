@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "06933fb913cd79d2",
+        "id": "7d010103372c6d5d",
         "type": "tabs",
         "children": [
           {
-            "id": "9f0a70bc44c822e5",
+            "id": "ce12d45f5e7b9a7e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -73,6 +73,22 @@
               },
               "icon": "lucide-bookmark",
               "title": "Marcadores"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3d33d4cb9141f817",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f0a70bc44c822e5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -197,6 +213,9 @@
   },
   "active": "9f0a70bc44c822e5",
   "lastOpenFiles": [
+    "Obsidiana/SQL/CREAR TABLAS.md",
+    "Obsidiana/SQL/CONSULTAS.md",
+    "Obsidiana/SQL/CONDICIONALES.md",
     "Obsidiana/SEGUNDA PRUEBA.md",
     "Obsidiana/PRUEBA PADRE.md",
     "Obsidiana/Bienvenido.md"
