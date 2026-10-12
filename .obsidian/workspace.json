@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidiana/SQL/CREAR TABLAS.md",
+                "file": "Obsidiana/SQL/CONDICIONALES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CREAR TABLAS"
+              "title": "CONDICIONALES"
+            }
+          },
+          {
+            "id": "0a03d88c0529add4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidiana/SQL/PRUEBA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PRUEBA"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,11 +251,12 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "ce12d45f5e7b9a7e",
+  "active": "0a03d88c0529add4",
   "lastOpenFiles": [
     "Obsidiana/SQL/CONDICIONALES.md",
-    "Obsidiana/SQL/CONSULTAS.md",
+    "Obsidiana/SQL/PRUEBA.md",
     "Obsidiana/SQL/CREAR TABLAS.md",
+    "Obsidiana/SQL/CONSULTAS.md",
     "Sin nombre",
     "2026-10-11.md",
     "Obsidiana/SEGUNDA PRUEBA.md",
