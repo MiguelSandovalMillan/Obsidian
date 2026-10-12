@@ -41,7 +41,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -235,8 +235,9 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "8516a991e604fd0a",
+  "active": "716a7fb48ad4cc1b",
   "lastOpenFiles": [
+    "Sin nombre",
     "2026-10-11.md",
     "Obsidiana/SQL/CREAR TABLAS.md",
     "Obsidiana/SQL/CONSULTAS.md",
