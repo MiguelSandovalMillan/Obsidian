@@ -31,8 +31,5 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  },
-  "Obsidiana/SQL/CONDICIONALES.md": "↗",
-  "Obsidiana/SQL/CONSULTAS.md": "LiBoxSelect",
-  "Obsidiana/SQL/CREAR TABLAS.md": "LiTable"
+  }
 }
