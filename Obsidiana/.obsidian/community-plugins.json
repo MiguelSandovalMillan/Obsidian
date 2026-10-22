@@ -6,5 +6,7 @@
   "colored-tags",
   "code-styler",
   "file-explorer-plus",
-  "mlir-syntax-highlight"
+  "mlir-syntax-highlight",
+  "omnisearch",
+  "cmdr"
 ]

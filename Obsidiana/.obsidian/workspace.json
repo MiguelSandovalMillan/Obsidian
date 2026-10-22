@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/CONSULTAS.md",
+                "file": "SQL/CREAR TABLAS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CONSULTAS"
+              "title": "CREAR TABLAS"
             }
           }
         ],
@@ -234,14 +234,16 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
       "obsidian-git:Open Git source control": false,
-      "graph:Abrir vista gráfica": false
+      "graph:Abrir vista gráfica": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "6491b546f2d0a607",
   "lastOpenFiles": [
+    "SQL/PRUEBA.md",
+    "SQL/CREAR TABLAS.md",
     "SQL/CONDICIONALES.md",
     "SQL/CONSULTAS.md",
-    "SQL/CREAR TABLAS.md",
     "Sin título.canvas",
     "SQL",
     "Bienvenido.md",
