@@ -41,7 +41,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -238,6 +238,12 @@
   },
   "active": "ce12d45f5e7b9a7e",
   "lastOpenFiles": [
+    "Obsidiana/SQL/UNION.md",
+    "Obsidiana/SQL/SUBCONSULTAS.md",
+    "Obsidiana/SQL/OPERADORES.md",
+    "Obsidiana/SQL/FUNCIONES.md",
+    "Obsidiana/SQL/FECHAS.md",
+    "Obsidiana/SQL/AGRUPACION.md",
     "Obsidiana/SQL/PRUEBA.md",
     "Obsidiana/SQL/CONDICIONALES.md",
     "Obsidiana/SQL/CREAR TABLAS.md",
