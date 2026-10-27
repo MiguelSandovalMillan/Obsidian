@@ -31,4 +31,13 @@ Devuelve la _suma_ de los valores no nulos de una columna
 	SELECT COUNT(*) FROM sales WHERE coin = 'AGK'
 
 **SUM ( )**
-Devuelve la {suma} de los valores no nulos de una columna (SELECT SUM(amount) FROM sales;)
+Devuelve la _suma_ de los valores no nulos de una columna 
+
+	SELECT SUM(amount) FROM sales;
+
+
+**VALUE**
+Devuelve el _valor_ de una columna especifica 
+
+	SELECT VALUE(nombre_columna) FROM sales;
+
