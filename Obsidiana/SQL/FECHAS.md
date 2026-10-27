@@ -21,4 +21,5 @@ Se utiliza para convertir un _numero decimal_ en una _fecha_
 
 
 **STRFTIME**
-Se utiliza para convertir una fecha en un formato especifico
+Se utiliza para convertir una _fecha_ en un _formato especifico_
+

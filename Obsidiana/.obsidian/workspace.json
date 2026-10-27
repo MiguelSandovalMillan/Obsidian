@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/FECHAS.md",
+                "file": "SQL/FUNCIONES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FECHAS"
+              "title": "FUNCIONES"
             }
           }
         ],
@@ -280,8 +280,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b601677d628175b3",
+  "active": "5adaf68c1d9756eb",
   "lastOpenFiles": [
+    "Sin título.md",
     "SQL/FUNCIONES.md",
     "SQL/FECHAS.md",
     "SQL/OPERADORES.md",
