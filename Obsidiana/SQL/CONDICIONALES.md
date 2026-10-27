@@ -52,5 +52,6 @@ Se utiliza para saber si un campo contiene un dato especifico
 
 
 ### No condicional
+
 __ *AS* __
 Se utiliza para renombrar una columna o tabla completa

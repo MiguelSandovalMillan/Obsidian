@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidiana/SQL/CONDICIONALES.md",
+                "file": "Obsidiana/SQL/OPERADORES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CONDICIONALES"
+              "title": "OPERADORES"
             }
           }
         ]
@@ -238,14 +238,14 @@
   },
   "active": "ce12d45f5e7b9a7e",
   "lastOpenFiles": [
-    "Obsidiana/SQL/UNION.md",
     "Obsidiana/SQL/SUBCONSULTAS.md",
+    "Obsidiana/SQL/CONDICIONALES.md",
+    "Obsidiana/SQL/UNION.md",
     "Obsidiana/SQL/OPERADORES.md",
     "Obsidiana/SQL/FUNCIONES.md",
     "Obsidiana/SQL/FECHAS.md",
     "Obsidiana/SQL/AGRUPACION.md",
     "Obsidiana/SQL/PRUEBA.md",
-    "Obsidiana/SQL/CONDICIONALES.md",
     "Obsidiana/SQL/CREAR TABLAS.md",
     "Obsidiana/SQL/CONSULTAS.md",
     "Sin nombre",
