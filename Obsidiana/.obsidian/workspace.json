@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sin título.md",
+                "file": "SUBCONSULTAS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sin título"
+              "title": "SUBCONSULTAS"
             }
           }
         ],
@@ -310,7 +310,7 @@
   },
   "active": "f7a901b92d1f040b",
   "lastOpenFiles": [
-    "Sin título.md",
+    "SUBCONSULTAS.md",
     "SQL/AGRUPACION.md",
     "SQL/CREAR TABLAS.md",
     "SQL/FUNCIONES.md",
