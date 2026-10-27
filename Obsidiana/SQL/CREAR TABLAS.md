@@ -2,7 +2,9 @@
 
 ---
 --- 
-[[CONDICIONALES]] - [[CONSULTAS]] -
+[[CONDICIONALES]] - [[CONSULTAS]] - [[OPERADORES]] - [[FUNCIONES]] - [[FECHAS]] - [[AGRUPACION]] -[[SUBCONSULTAS]] 
+
+
 
 
 ```SQL

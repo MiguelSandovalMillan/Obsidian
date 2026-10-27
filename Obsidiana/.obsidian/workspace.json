@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUBCONSULTAS.md",
+                "file": "SQL/SUBCONSULTAS.md",
                 "mode": "source",
                 "source": false
               },
@@ -310,13 +310,13 @@
   },
   "active": "f7a901b92d1f040b",
   "lastOpenFiles": [
-    "SUBCONSULTAS.md",
-    "SQL/AGRUPACION.md",
     "SQL/CREAR TABLAS.md",
+    "SQL/CONDICIONALES.md",
+    "SQL/SUBCONSULTAS.md",
+    "SQL/AGRUPACION.md",
     "SQL/FUNCIONES.md",
     "SQL/FECHAS.md",
     "SQL/OPERADORES.md",
-    "SQL/CONDICIONALES.md",
     "SQL/CONSULTAS.md",
     "SQL/PRUEBA.md",
     "Sin título.canvas",
