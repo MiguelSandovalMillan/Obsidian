@@ -6,6 +6,7 @@
 ### WHERE
 Nos ayuda para poner condiciones para nuestra consulta y se puede utilizar con diferentes funciones adicionales
 
+
 __ *AND* __
 Nos ayuda para añadir mas condiciones a nuestra consulta 
 (se tienen que cumplir todas las condiciones)
