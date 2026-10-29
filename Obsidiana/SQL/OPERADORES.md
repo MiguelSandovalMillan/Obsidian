@@ -1,5 +1,14 @@
 -- -
+**COMPARACION**
 
+	" = " igual a
+	" > " Mayor que
+	" < " Menor que
+	" >= " Mayor o igual que
+	" <= " Menor igual que
+
+	" <> " Diferente que
+	
 **SUMA**
 
 	" + " Suma de Numeros
