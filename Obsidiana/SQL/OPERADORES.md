@@ -8,7 +8,7 @@
 	" <= " Menor igual que
 
 	" <> " Diferente que
-	
+	|| " " || Sirve para unir textos 
 **SUMA**
 
 	" + " Suma de Numeros
