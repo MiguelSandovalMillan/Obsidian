@@ -28,5 +28,7 @@ Se utiliza para *limitar* la cantidad de datos que queremos recibir.
 	SELECT * FROM Clientes
 	LIMIT 1;
 
+		LIMIT 1,2 --> El PRIMER parametro muestra la fila apartir de la que debe
+		empezar y el SEGUNDO parametro muestra la cantidad de filas que mostrar
 
 
