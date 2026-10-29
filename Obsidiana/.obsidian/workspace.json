@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/CONDICIONALES.md",
+                "file": "SQL/CONSULTAS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CONDICIONALES"
+              "title": "CONSULTAS"
             }
           }
         ],
@@ -324,11 +324,11 @@
   },
   "active": "6e3dbc4eeef134c5",
   "lastOpenFiles": [
+    "SQL/CONDICIONALES.md",
     "SQL/AGRUPACION.md",
     "SQL/UNION.md",
     "SQL/CREAR TABLAS.md",
     "SQL/SUBCONSULTAS.md",
-    "SQL/CONDICIONALES.md",
     "SQL/FUNCIONES.md",
     "SQL/FECHAS.md",
     "SQL/OPERADORES.md",
