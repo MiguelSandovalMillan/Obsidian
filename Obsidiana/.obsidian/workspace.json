@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/CREAR TABLAS.md",
+                "file": "file:C:/Users/maria/Downloads/Nota de clase 2026-09-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CREAR TABLAS"
+              "title": "Nota de clase 2026-09-08"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,17 +254,18 @@
       "graph:Abrir vista gráfica": false
     }
   },
-  "active": "0475ce8852dd53fd",
+  "active": "c743ac7322b71e47",
   "lastOpenFiles": [
+    "file:C:/Users/maria/Downloads/Nota de clase 2026-09-08.md",
     "SQL/CONDICIONALES.md",
-    "SQL/CREAR TABLAS.md",
+    "SQL/FECHAS.md",
+    "SQL/FUNCIONES.md",
     "SQL/OPERADORES.md",
     "SQL/CONSULTAS.md",
-    "SQL/FUNCIONES.md",
+    "SQL/CREAR TABLAS.md",
     "SQL/SUBCONSULTAS.md",
     "SQL/AGRUPACION.md",
     "SQL/UNION.md",
-    "SQL/FECHAS.md",
     "SQL/PRUEBA.md",
     "Sin título.canvas",
     "SQL",
